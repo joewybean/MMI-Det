@@ -19,7 +19,7 @@ Image fusion aims to combine images from different sources to produce a fused im
 
 
 
-## Citing EDCNN
+## Citing MMI-Det
 If you find MMI-Det useful in your research, please consider citing:
 ```bibtex
 @ARTICLE{10570450,
