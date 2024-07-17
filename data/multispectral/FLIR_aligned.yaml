@@ -1,0 +1,9 @@
+train_rgb: /home/disk0/zyq/datasets/FLIR_align/RGBimages/all
+val_rgb: /home/disk0/zyq/datasets/FLIR_align/RGBimages/val  
+train_ir: /home/disk0/zyq/datasets/FLIR_align/IRimages/all
+val_ir: /home/disk0/zyq/datasets/FLIR_align/IRimages/val
+
+nc: 4
+
+# class names
+names: [ 'person','car','bicycle', 'dog']

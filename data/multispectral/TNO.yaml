@@ -1,0 +1,20 @@
+# COCO 2017 dataset http://cocodataset.org - first 128 training images
+# Train command: python train.py --data coco128.yaml
+# Default dataset location is next to YOLOv5:
+#   /parent_folder
+#     /coco128
+#     /yolov5
+train_rgb: /home/disk0/zyq/datasets/TNO/RGBimages
+val_rgb: /home/disk0/zyq/datasets/TNO/RGBimages  
+train_ir: /home/disk0/zyq/datasets/TNO/IRimages
+val_ir: /home/disk0/zyq/datasets/TNO/IRimages
+
+# train_rgb: /home/disk0/zyq/datasets/M3FD/RGBimages/train
+# val_rgb: /home/disk0/zyq/datasets/M3FD/RGBimages/train  
+# train_ir: /home/disk0/zyq/datasets/M3FD/IRimages/train
+# val_ir: /home/disk0/zyq/datasets/M3FD/IRimages/train
+# number of classes
+nc: 3
+
+# class names
+names: [ 'Person', 'Bicycle', 'Car']

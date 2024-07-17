@@ -1,0 +1,14 @@
+train_rgb: /home/disk0/zyq/datasets/M3FD/RGBimages/train
+val_rgb: /home/disk0/zyq/datasets/M3FD/RGBimages/val  
+train_ir: /home/disk0/zyq/datasets/M3FD/IRimages/train
+val_ir: /home/disk0/zyq/datasets/M3FD/IRimages/val
+
+# train_rgb: /home/disk0/zyq/datasets/M3FD/RGBimages/train
+# val_rgb: /home/disk0/zyq/datasets/M3FD/RGBimages/train  
+# train_ir: /home/disk0/zyq/datasets/M3FD/IRimages/train
+# val_ir: /home/disk0/zyq/datasets/M3FD/IRimages/train
+# number of classes
+nc: 6
+
+# class names
+names: [ 'People', 'Car', 'Bus', 'Lamp', 'Motorcycle', 'Truck']
