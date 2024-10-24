@@ -16,7 +16,9 @@ The Visible-Infrared (VIS-IR) object detection is a challenging detection task, 
   Fig. 1: Overall architecture of the proposed MMI-Det model.
 </div>
 
-
+## Model
+The pretrained model in the M3FD dataset can be downloaded on 
+https://drive.google.com/file/d/1zdQTcEwpzmns-4fQ8OvZ6MghW1V-feMB/view?usp=drive_link
 
 
 ## Citing MMI-Det
